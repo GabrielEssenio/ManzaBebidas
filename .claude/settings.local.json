@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx:*)",
+      "Bash(npm init:*)",
+      "Bash(sed -i '' 's/\"\"name\"\": \"\"Manza\"\"/\"\"name\"\": \"\"manza-bebidas\"\"/' package.json)",
+      "Bash(npm install:*)",
+      "Bash(npm run:*)"
+    ]
+  }
+}
